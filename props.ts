@@ -1,4 +1,4 @@
-import { cssUnitValidator, hexColorValidator } from "@/helpers/propValidator";
+import { cssUnitValidator, hexColorValidator } from "@/helpers/shared/propValidator";
 
 const props = {
   name: () => ({
